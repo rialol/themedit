@@ -1653,7 +1653,7 @@ div[class*="typeWindows-"]::after, div[class*="typeWindows-"]::before {
   transition: all 0.5s ease-in-out;
 }
 div[class*="typeWindows-"]::after {
-  content: "Novaturient";
+  content: " ";
   text-shadow: 0 0 20px rgb(255, 0, 0); 
   color: rgb(255, 94, 94);
   font-family: Discord;
@@ -1661,7 +1661,7 @@ div[class*="typeWindows-"]::after {
   transform: translateX(70%) rotateX(45deg);
 }
 div[class*="typeWindows-"]::before {
-  content: "Autumn Foliole";
+  content: " ";
   font-family: Discord;
   text-shadow: 0 0 20px rgb(255, 0, 0); 
   color: rgb(255, 94, 94);
